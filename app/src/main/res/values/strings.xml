@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ChatAppWithFireBase</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, I\'m using Lapit Chat App</string>
+
+
+    <string name="toneanalyzerUsername">credentials.xml</string>
+    <string name="default_text">Text to send to Watson Tone Analyzer</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_close">Close Application</string>
+    <string name="error_title_default">Error in Watson Tone Analyzer QNXZV</string>
+    <string name="error_title_invalid_credentials">Invalid Tone Analyzer Credentials</string>
+    <string name="error_message_invalid_credentials">Please verify your credentials in \"values/credentials\" and rebuild the application.\n\nSee the README for further assistance.</string>
+    <string name="error_title_bluemix_connection">Failed to Connect to Bluemix</string>
+    <string name="error_message_bluemix_connection">Please verify your connection to the internet.\n\nSee the README for further assistance.</string>
+
+
+</resources>
